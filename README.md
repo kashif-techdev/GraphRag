@@ -88,7 +88,7 @@ Before running the project, ensure you have the following installed and configur
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/GraphRag.git
+git clone https://github.com/kashif-techdev/GraphRag.git
 cd GraphRag
 ```
 
@@ -236,15 +236,6 @@ Change the topic by setting `WIKIPEDIA_QUERY` in your `.env` file.
 | `ImportError: Neo4jVector` | Install `langchain-neo4j`: `pip install langchain-neo4j` |
 | Wikipedia returns 0 documents | Check internet connection; the notebook sets a required user-agent automatically |
 | Graph extraction is slow | Expected with local Ollama; reduce `load_max_docs` in the notebook |
-
-For a full troubleshooting guide, see [`RUN_GUIDE.md`](RUN_GUIDE.md).
-
----
-
-## Documentation
-
-- **[RUN_GUIDE.md](RUN_GUIDE.md)** — Step-by-step setup, verification commands, and detailed troubleshooting
-- **[template.ipynb](template.ipynb)** — Original reference implementation using OpenAI
 
 ---
 
