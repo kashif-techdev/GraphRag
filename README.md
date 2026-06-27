@@ -56,6 +56,16 @@ flowchart TB
 
 ---
 
+## explore the Generated Graph querry= Imran Khan
+<img width="838" height="749" alt="image" src="https://github.com/user-attachments/assets/c66dd1ad-9a49-427f-bd7f-c880e2c6791f" />
+<br>
+zoom in 
+<br>
+<img width="1654" height="781" alt="image" src="https://github.com/user-attachments/assets/cb55a143-2eda-4997-88ca-31eeef677676" />
+
+<img width="1670" height="789" alt="image" src="https://github.com/user-attachments/assets/cfa5cc37-bab7-4d7b-9467-59d5b268c4a6" />
+
+
 ## Tech Stack
 
 | Component | Technology |
